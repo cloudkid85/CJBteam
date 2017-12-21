@@ -17,6 +17,7 @@
           <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
         <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework:spring-webmvc:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.2.RELEASE" />
@@ -24,7 +25,8 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.2.RELEASE" />
-          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/5.0.2.RELEASE/8dbe4a28cae3ffa222aeff6776a3928a88d66e6f/spring-webmvc-5.0.2.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.security/spring-security-core/4.2.3.RELEASE/5c0e47a47036c94d6fdd02696bf52be6d1adbd4d/spring-security-core-4.2.3.RELEASE.jar" />
+          <element id="file-copy" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
         </element>
       </element>
     </root>

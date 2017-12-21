@@ -6,4 +6,22 @@
 
     <display-name>CJBteam</display-name>
 
+    <!-- -->
+    <!-- Configuración del Dispatcher servlet de Spring MVC -->
+    <!-- -->
+    <servlet>
+        <servlet-name>HomeController</servlet-name>
+        <servlet-class>org.springframework.web.servlet.DispatcherServlet</servlet-class>
+        <init-param>
+            <param-name>contextConfigLocation</param-name>
+            <param-value>/WEB-INF/config/webcontext/mvc-core-config.xml</param-value>
+        </init-param>
+        <load-on-startup>1</load-on-startup>
+    </servlet>
+
+    <servlet-mapping>
+        <servlet-name>HomeController</servlet-name>
+        <url-pattern>/</url-pattern>
+    </servlet-mapping>
+
 </web-app>
