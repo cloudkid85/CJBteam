@@ -16,6 +16,14 @@
           <element id="module-output" name="CJBteam_main" />
           <element id="dir-copy" path="$PROJECT_DIR$/out/production/resources" />
         </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.2.RELEASE" />
+        </element>
       </element>
     </root>
   </artifact>
