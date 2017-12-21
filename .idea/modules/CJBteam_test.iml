@@ -15,7 +15,9 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CJBteam_main" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-webmvc:5.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-context:5.0.2.RELEASE" level="project" />
+    <orderEntry type="library" name="Gradle: org.springframework:spring-web:5.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-aop:5.0.2.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework:spring-beans:5.0.2.RELEASE" level="project" />
