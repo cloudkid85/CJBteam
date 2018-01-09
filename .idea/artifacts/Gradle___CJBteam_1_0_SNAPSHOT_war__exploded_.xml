@@ -24,10 +24,8 @@
           <element id="library" level="project" name="Gradle: org.springframework:spring-context:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-web:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-aop:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-jdbc:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-tx:5.0.2.RELEASE" />
-          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-expression:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Gradle: org.springframework:spring-beans:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-core:5.0.2.RELEASE" />
           <element id="library" level="project" name="Gradle: org.springframework:spring-jcl:5.0.2.RELEASE" />
         </element>
