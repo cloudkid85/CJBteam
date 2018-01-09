@@ -7,7 +7,7 @@
     <display-name>CJBteam</display-name>
 
     <welcome-file-list>
-        <welcome-file>/html/accesoInicial/login.html</welcome-file>
+        <welcome-file>/WEB-INF/html/accesoInicial/login.html</welcome-file>
     </welcome-file-list>
 
     <context-param>
@@ -49,7 +49,7 @@
 
     <servlet-mapping>
         <servlet-name>HomeController</servlet-name>
-        <url-pattern>*.html</url-pattern>
+        <url-pattern>*.htm</url-pattern>
     </servlet-mapping>
 
 </web-app>
