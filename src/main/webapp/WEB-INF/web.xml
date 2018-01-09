@@ -7,7 +7,7 @@
     <display-name>CJBteam</display-name>
 
     <welcome-file-list>
-        <welcome-file>/WEB-INF/html/accesoInicial/login.html</welcome-file>
+        <welcome-file>/WEB-INF/accesoInicial/login.html</welcome-file>
     </welcome-file-list>
 
     <context-param>
