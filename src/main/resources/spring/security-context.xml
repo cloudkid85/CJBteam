@@ -18,4 +18,12 @@
         <session-management session-fixation-protection="migrateSession"></session-management>
     </http>
 
+    <authentication-manager>
+        <authentication-provider>
+            <user-service>
+                <user name="username" password="password" authorities="ROLE_USER" />
+            </user-service>
+        </authentication-provider>
+    </authentication-manager>
+
 </beans:beans>
