@@ -11,7 +11,7 @@ repositories {
 
 dependencies {
 
-    //--------------------DEPENDENCIAS DE SPRING ---------------------------
+    //-------------------- SPRING ------------------------------------------
 
     // https://mvnrepository.com/artifact/org.springframework/spring-context
     compile group: 'org.springframework', name: 'spring-context', version: '5.0.2.RELEASE'
@@ -33,6 +33,12 @@ dependencies {
 
     // https://mvnrepository.com/artifact/org.webjars/bootstrap
     compile group: 'org.webjars', name: 'bootstrap', version: '4.0.0-alpha'
+
+
+    //-------------------- JQUERY ---------------------------------------------
+
+    // https://mvnrepository.com/artifact/org.webjars/jquery
+    compile group: 'org.webjars', name: 'jquery', version: '3.2.1'
 
 
     //-------------------- JUNIT ----------------------------------------------
